@@ -1,7 +1,7 @@
 name = "Madara Gaiden"
+age = "0"
 country = "Morocco"
-Age = 0
 
 print("Name: " + name)
-print("Age: " + country)
+print("Age: " + age)
 print("Country: " + country)
